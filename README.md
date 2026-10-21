@@ -95,6 +95,4 @@ The site produces no output of its own. Each page has one expected result:
 
 This repository accompanies the Zenrows article:
 
-**AI Agent Guardrails for Web Access: Allowlists, Rate Limits and Spending Caps**
-
-[ARTICLE_URL]
+[AI Agent Guardrails for Web Access: Allowlists, Rate Limits and Spending Caps]()
